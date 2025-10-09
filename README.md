@@ -1,8 +1,9 @@
-Creating comparison data - https://colab.research.google.com/github/argilla-io/argilla/blob/v1.11.0/docs/_source/guides/llms/examples/train-reward-model-rlhf.ipynb
+**Creating comparison data** - https://colab.research.google.com/github/argilla-io/argilla/blob/v1.11.0/docs/_source/guides/llms/examples/train-reward-model-rlhf.ipynb
 
 
-Reward Bench - https://huggingface.co/papers/2403.13787
+**Reward Bench** - https://huggingface.co/papers/2403.13787
 
+**Relevant Resource** : [huyechip article in RLHF](https://huyenchip.com/2023/05/02/rlhf.html)
 
 # Project documentation — Reward-model from synthetic preferences (step-by-step)
 
